@@ -1,8 +1,8 @@
-<!-- Foto dengan frame bulat -->
 <div class="d-flex justify-content-center mt-3">
   <img src="assets/Image/Me.jpg" alt="Foto Saya" class="rounded-circle profile-photo">
+  </div>
+  <h5 class="text-center p-3">Muhammad Nurul Firdaus</h5>
 </div>
-
 <!-- Carousel -->
 <div id="carouselExampleCaptions" class="carousel slide mt-3">
   <div class="carousel-indicators">

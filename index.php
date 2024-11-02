@@ -28,7 +28,7 @@
 
     <footer>
         <div class="text-bg-dark p-3 text-center">
-            Pemrograman web 1 @ <?= date(format: "Y") ?>
+            Pemrograman Web Muhammad Nurul Firdaus <?= date(format: "Y") ?>
         </div>
     </footer>
 

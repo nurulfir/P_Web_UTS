@@ -32,12 +32,12 @@
   <div class="row justify-content-center mt-4">
     <div class="col-md-6">
       <div class="card p-4">
-        <h3 class="text-center">Hubungi Kami</h3>
+        <h3 class="text-center">Hubungi Saya</h3>
         <div class="contact-info mt-3">
-          <p><strong>Email:</strong> <a href="mailto:info@example.com">info@example.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:muhammadnurulfirdaus05@gmail.com">muhammadnurulfirdaus05@gmail.com</a></p>
           <p><strong>Telepon:</strong> <a href="tel:+6282121397278">+62 821 2139 7278</a></p>
           <hr>
-          <p class="text-center"><strong>Ikuti Kami di Media Sosial:</strong></p>
+          <p class="text-center"><strong>Ikuti Saya di Media Sosial:</strong></p>
           <div class="d-flex justify-content-around">
             <a href="https://instagram.com/mhmmdnrlfirdaus" target="_blank">
               <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="width: 24px;"> Instagram
