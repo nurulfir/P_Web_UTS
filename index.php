@@ -9,7 +9,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- CSS Datatables -->
-    <link href="assets/datatables/dataTables.dataTables.css" rel="stylesheet">
+    <link href="assets/datatables/dataTables.bootstrap5.css" rel="stylesheet">
 </head>
 
 <body>
@@ -34,9 +34,9 @@
 
     </div>
     <script src="assets/jquery-3.7.1.js"></script>
-    <script src="assets/datatables/dataTables.js"></script>
-
     <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/datatables/dataTables.js"></script>
+    <script src="assets/datatables/dataTables.bootstrap5.js"></script>
 
     <script>
     new DataTable('#example');
